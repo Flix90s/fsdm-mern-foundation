@@ -1,2 +1,2 @@
 # fsdm-mern-foundation
-This repository is for fsdm build a strong mern foundation project
+This repository is for fsdm build a strong mern foundation phase project
